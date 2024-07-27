@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hiwot
+- 👀 I’m interested in Data Analysis
+- 💞️ I’m looking to collaborate on Business Intelligence Projects 
